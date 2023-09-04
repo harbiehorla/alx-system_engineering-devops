@@ -1,1 +1,1 @@
-This is a readme for shell directions
+0x02. Shell, I/O Redirections and filter
